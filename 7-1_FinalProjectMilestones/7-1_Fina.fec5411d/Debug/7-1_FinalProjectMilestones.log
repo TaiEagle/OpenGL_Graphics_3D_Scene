@@ -1,0 +1,7 @@
+﻿  SceneManager.cpp
+C:\CS330Content2026\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(239,16): warning C4018: '<': signed/unsigned mismatch
+C:\CS330Content2026\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1187,12): warning C4101: 'scaleXYZ': unreferenced local variable
+C:\CS330Content2026\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1191,12): warning C4101: 'positionXYZ': unreferenced local variable
+  7-1_FinalProjectMilestones.vcxproj -> C:\CS330Content2026\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
+  Copy EXE to Solution Folder
+          1 file(s) copied.
